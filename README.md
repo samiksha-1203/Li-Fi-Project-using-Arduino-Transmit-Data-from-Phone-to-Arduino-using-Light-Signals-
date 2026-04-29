@@ -60,15 +60,6 @@ Mobile App/Flashlight
 - Secure Communication Systems
 - Military Applications
 
-## 📂 Repository Structure
-```bash
-├── Arduino_Code/
-├── Circuit_Diagram/
-├── Images/
-├── Documentation/
-└── README.md
-```
-
 ## 👩‍💻 Authors
 - Samiksha Chavan  
 - Jagruti Thotam
